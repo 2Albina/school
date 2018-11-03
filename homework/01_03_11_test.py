@@ -25,3 +25,4 @@ def min_fun(b):
 min_fun(b)
 min_fun(c)
 
+#school
