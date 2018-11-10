@@ -12,4 +12,7 @@ for i in x:
         z.append(i)
 print(z)
 
-print(max(z))
+if z == []:
+    print('элементов оканчивающихся на 5 нет')
+else:
+    print(max(z))
